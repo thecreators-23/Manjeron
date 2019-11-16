@@ -1,2 +1,3 @@
 # Manjeron
-First try
+Manjeron , John Cesar
+
